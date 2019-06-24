@@ -1,7 +1,9 @@
    This is my complete EFI folder to be used for hackintosh on ASROCK X99 FORMULA
    
    * Hardware
-      * ASROCK X99 Formula: https://www.asrock.com/mb/intel/x99%20oc%20formula/
+      * ASROCK X99 Formula: 
+         * https://www.asrock.com/mb/intel/x99%20oc%20formula/
+         * http://asrock.pc.cdn.bitgravity.com/Manual/X99%20OC%20Formula.pdf
       * 2 X Sapphire RX-580 nitro+ 8GB oc: https://www.sapphiretech.com/en/consumer/nitro-rx-580-8g-g5
          * "PCIE1": PCI-X 3.0 X16 
          * "PCIE3": PCI-X 3.0 X16 
