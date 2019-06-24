@@ -13,6 +13,6 @@
       * Don't work
    
    * OS: MAC OS Mojave 14.4.5
-   * CPUINFO: <p align="center">
+   * CPU info: <p align="center">
   <img src="https://github.com/rogeriomm/hackintosh-xeon-asrock_x99_formula-sapphire_rx580_nitro_8g/blob/master/images/screenshot_xeon.jpg?raw=true" alt="MSX fat breakout board"/>
 </p>
