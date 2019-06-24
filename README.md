@@ -16,7 +16,7 @@
          * quad channel
       * SSD Sandisk 120GB at "S_SATA3_1"
    * Status:
-      * Don't work
+      * Install ok. Crash on first start
    
    * OS: MAC OS Mojave 14.4.5
    * CPU info: <p align="center">
