@@ -6,7 +6,7 @@
          * PCI-X 3.0 X16 PCIE1
          * PCI-X 3.0 X16 PCIE3
       * XEON E5-2670 V3 ES stepping 1: https://ark.intel.com/content/www/us/en/ark/products/81709/intel-xeon-processor-e5-2670-v3-30m-cache-2-30-ghz.html
-      * 16 GB DDR4 RAM Corsair 2133
+      * 16 GB DDR4 RAM Corsair 2133 CL 15: https://www.kingston.com/dataSheets/KVR21N15S8_4.pdf
          * quad channel
    * Status:
       * Don't work
