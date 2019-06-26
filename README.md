@@ -27,5 +27,5 @@
 # Benchmarking
    * Geekbench
       * CPU: https://browser.geekbench.com/v4/cpu/13674426
-      * GPU: https://browser.geekbench.com/v4/compute/4216512
+      * GPU: https://browser.geekbench.com/v4/compute/4217788
    
