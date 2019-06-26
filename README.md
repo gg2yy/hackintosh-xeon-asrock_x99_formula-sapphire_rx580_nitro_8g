@@ -30,6 +30,6 @@
    * Geekbench
       * CPU: https://browser.geekbench.com/v4/cpu/13674426
       * GPU: https://browser.geekbench.com/v4/compute/4217788
-      * This machine versus Dell vostro 347 running Linux Ubuntu 18.04: https://topics-cdn.dell.com/pdf/vostro-3470-desktop_owners-manual4_en-us.pdf
+      * This machine versus Dell vostro 347 - I7-8700 3.2Ghz, running Linux Ubuntu 18.04: https://topics-cdn.dell.com/pdf/vostro-3470-desktop_owners-manual4_en-us.pdf
          * https://browser.geekbench.com/v4/cpu/13676390
    
