@@ -15,14 +15,14 @@
       * quad channel
    * SSD Sandisk plus 240GB at "S_SATA3_1", 6Gb/s
    * BIOS configuration:
-   
+   * CPU info: <p align="center">
+  <img src="https://github.com/rogeriomm/hackintosh-xeon-asrock_x99_formula-sapphire_rx580_nitro_8g/blob/master/images/screenshot_xeon.jpg?raw=true" alt="MSX fat breakout board"/>
+</p>
+
 # Status:
    * Install ok. 
    
    * OS: MAC OS Mojave 14.4.5
-   * CPU info: <p align="center">
-  <img src="https://github.com/rogeriomm/hackintosh-xeon-asrock_x99_formula-sapphire_rx580_nitro_8g/blob/master/images/screenshot_xeon.jpg?raw=true" alt="MSX fat breakout board"/>
-</p>
 
 # Benchmarking
    * Geekbench
