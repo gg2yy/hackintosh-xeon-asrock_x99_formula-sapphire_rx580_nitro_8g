@@ -14,6 +14,7 @@
    * 16 GB DDR4 RAM Corsair 2133 CL 15: https://www.kingston.com/dataSheets/KVR21N15S8_4.pdf
       * quad channel
    * SSD Sandisk plus 240GB at "S_SATA3_1", 6Gb/s
+   * BIOS configuration:
    
 # Status:
    * Install ok. 
