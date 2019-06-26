@@ -16,7 +16,7 @@
          * quad channel
       * SSD Sandisk plus 120GB at "S_SATA3_1", 6Gb/s
    * Status:
-      * Install ok. Crash on first start
+      * Install ok. 
    
    * OS: MAC OS Mojave 14.4.5
    * CPU info: <p align="center">
