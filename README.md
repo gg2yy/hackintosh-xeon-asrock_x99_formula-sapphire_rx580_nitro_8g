@@ -7,7 +7,7 @@
       * BIOS: 3.40
    * 2 X Sapphire RX-580 nitro+ 8GB oc: https://www.sapphiretech.com/en/consumer/nitro-rx-580-8g-g5
       * "PCIE1": PCI-X 3.0 X16 
-      * "PCIE3": PCI-X 3.0 X16 
+      * "PCIE3": PCI-X 3.0 X4
    * XEON E5-2670 V3 2.2Ghz ES stepping 1, 12 cores/24 threads:               
       * Retail: https://ark.intel.com/content/www/us/en/ark/products/81709/intel-xeon-processor-e5-2670-v3-30m-cache-2-30-ghz.html
       * Engineering sample (ES)
