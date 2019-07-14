@@ -2044,8 +2044,6 @@
 		<false/>
 		<key>AppleRTC</key>
 		<true/>
-		<key>Debug</key>
-		<true/>
 		<key>FakeCPUID</key>
 		<string>0x0306F2</string>
 		<key>KernelPm</key>
