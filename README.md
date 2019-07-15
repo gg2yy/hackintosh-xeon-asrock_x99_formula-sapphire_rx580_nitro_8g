@@ -23,8 +23,10 @@
 
 # Status:
    * Install ok. 
-   
    * OS: MAC OS Mojave 14.4.5
+   
+# Issues
+   * Random boot VRAM error
 
 # Benchmarking
    * Geekbench
