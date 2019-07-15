@@ -1,4 +1,4 @@
-   This is my complete EFI folder to be used for hackintosh on ASROCK X99 OC FORMULA
+   This is my complete EFI folder to be used for hackintosh on "ASROCK X99 OC FORMULA" and "ASROCK X99 TAICHI"
    
 # Hardware   
    * ASROCK X99 Formula: 
