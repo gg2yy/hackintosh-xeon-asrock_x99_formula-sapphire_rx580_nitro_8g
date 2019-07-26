@@ -34,6 +34,7 @@
       * GPU: https://browser.geekbench.com/v4/compute/4217788
       * This machine versus Dell vostro 347 - I7-8700 3.2Ghz, running Linux Ubuntu 18.04: https://topics-cdn.dell.com/pdf/vostro-3470-desktop_owners-manual4_en-us.pdf
          * https://browser.geekbench.com/v4/cpu/13676390
-   
+      * XEON 18 cores/36 threads E5-2696 v3
+         * https://browser.geekbench.com/v4/cpu/14048536
 # See also
    * https://github.com/Toooorch/X99-Deluxe-II
