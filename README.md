@@ -24,6 +24,7 @@
    
 # Issues
    * Random boot VRAM error
+      * Fixed on https://github.com/acidanthera/WhateverGreen/commit/bcd3f2ef73266f4a320ccfd0686bef2a969b2bde
 
 # Benchmarking
    * Geekbench
