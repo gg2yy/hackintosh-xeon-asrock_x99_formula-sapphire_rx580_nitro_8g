@@ -34,5 +34,3 @@
          * https://browser.geekbench.com/v4/cpu/13676390
       * XEON 18 cores/36 threads E5-2696 v3
          * https://browser.geekbench.com/v4/cpu/14048536
-# See also
-   * https://github.com/Toooorch/X99-Deluxe-II
