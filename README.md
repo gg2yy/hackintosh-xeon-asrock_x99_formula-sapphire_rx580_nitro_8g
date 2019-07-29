@@ -20,7 +20,10 @@
 
 # Status:
    * Install ok. 
-   * OS: MAC OS Mojave 14.4.5
+   * MAC OS version
+      * Mojave 14.4.5
+      * Mojave 14.4.6
+      * Catalina TODO
    
 # Issues
    * Random boot VRAM error
